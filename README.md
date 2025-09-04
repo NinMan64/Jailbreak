@@ -11,7 +11,8 @@ Compatibility: idk, best used on iOS 7+ with YouTube Installed
 Extra Requirements: API key for all api fixes of venduraiOS
 
 downloads:
-[venduraiOS deb](paste link here "venduraiOS"
+
+[venduraiOS deb](https://github.com/NinMan64/Jailbreak/raw/refs/heads/main/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb "venduraiOS")
 
 API Key-Less files Link (not uploaded yet!)
 

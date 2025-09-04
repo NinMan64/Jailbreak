@@ -16,9 +16,9 @@ downloads:
 
 API Key-Less files Link (not uploaded yet!)
 
-[API Key Files Link](paste link here "web")
+[API Key Files Link](https://github.com/NinMan64/Jailbreak/raw/refs/heads/main/web.zip "web")
 
-[Tutorial](paste link here "le manual")
+[Tutorial](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/piercingimpulse/verduraiOS&ved=2ahUKEwin4v3m8b6PAxX9k1YBHQU4IRYQFnoECCkQAQ&usg=AOvVaw3-OnHJgTrtTlhyALdplvfk "le manual")
 
 
 
